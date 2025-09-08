@@ -1,7 +1,7 @@
 # Crypto Portfolio & Tracker (iOS)
 
-Kosha is a modern iOS application to track and manage your cryptocurrency portfolio.  
-Inspired by the Sanskrit word *Kosha* (कोष), meaning **treasury**, it brings simplicity, power, and elegance to your crypto journey.
+This is a modern iOS application to track and manage your cryptocurrency portfolio.  
+it brings simplicity, power, and elegance to your crypto journey.
 
 ---
 
