@@ -11,7 +11,9 @@ import SwiftUI
 struct crypto_portfolio_tracker_iosApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView {
+                HomeView()
+            }
         }
     }
 }
