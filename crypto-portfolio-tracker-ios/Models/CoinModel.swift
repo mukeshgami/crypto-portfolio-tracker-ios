@@ -44,7 +44,7 @@ import Foundation
  */
 
 // MARK: - CoinModel
-struct CoinModel: Codable {
+struct CoinModel: Identifiable, Codable {
     let id, symbol, name, image: String
     let currentPrice: Double
     let marketCap, marketCapRank, fullyDilutedValuation: Double?

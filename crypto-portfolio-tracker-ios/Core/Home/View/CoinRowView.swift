@@ -28,7 +28,6 @@ struct CoinRowView: View {
 
 #Preview(traits: .sizeThatFitsLayout) {
     CoinRowView(coin: CoinModelPreview.instance.coin, showHoldingColumn: true)
-        .previewLayout(.sizeThatFits)
 }
 
 extension CoinRowView {
